@@ -1,0 +1,10 @@
+{
+  "database": {
+      "host": "localhost",
+      "name": "irisdev",
+      "username": "root",
+      "password": "iris",
+      "force": true
+  },
+  "port": 3000
+}
